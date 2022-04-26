@@ -15,3 +15,17 @@
  - Освоить умения по работе с git.
 - **Ход работы:**
  - Создаем учетную запись на GitHub
+![image](https://user-images.githubusercontent.com/104266946/165311978-dad759d9-4e31-4a5e-b612-ba2cdb7b86f7.png)
+ - Настраиваем систему контроля версий git. И синхронизируем компьютер и учетную запись GitHub
+![image](https://user-images.githubusercontent.com/104266946/165312146-06b862d7-de98-42fc-a9af-2134831e68b4.png)
+ - Добавляем ключ ssh. Создаем репозиторий в GitHub. Свой репозиторий я назвал iisnimthikov_repo, практически как и название моей учетной записи (iisnimthikov) для удобства.
+![image](https://user-images.githubusercontent.com/104266946/165312255-36a13b29-9b02-40ab-b3b9-6320654f6c7b.png)
+![image](https://user-images.githubusercontent.com/104266946/165312324-1fa04762-fd61-40fc-98ce-9c673fa3c9f5.png)
+ - Добавляем каталоги в репозиторий через консоль, после этого мы уже можем создавать наши файлы.
+![image](https://user-images.githubusercontent.com/104266946/165312428-0125f4fe-ae7f-4552-b9c0-f95abd3cf630.png)
+ - Добавляем каталог lab02 для второй лабораторной работы. Создаем первый коммит, при помощи команды git add, git commit –am “first commit”.
+![image](https://user-images.githubusercontent.com/104266946/165312549-f1ae1191-b9f3-402e-8293-65ea5aa883a7.png)
+ -  Выкладываем коммит и сохраняем, при помощи git push, добавляем файл лицензии, шаблон и также скачиваем шаблон для си++
+![image](https://user-images.githubusercontent.com/104266946/165312683-0776c871-9743-42c0-800c-dbd24eef390c.png)
+ - Создаем релиз на GitHub
+![image](https://user-images.githubusercontent.com/104266946/165312732-2438f7b4-7f6f-4d4d-8ca8-4f6d17dc773f.png)
